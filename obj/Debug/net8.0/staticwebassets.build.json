@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PL84bzPR8z4VlrrHOTghXd2mcTCGnflLwsXoZMKQzeU=",
+  "Source": "DOTNET8AUTH",
+  "BasePath": "_content/DOTNET8AUTH",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

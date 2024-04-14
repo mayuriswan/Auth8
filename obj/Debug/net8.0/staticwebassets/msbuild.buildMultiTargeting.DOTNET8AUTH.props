@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DOTNET8AUTH.props" />
+</Project>
